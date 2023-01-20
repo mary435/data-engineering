@@ -1,6 +1,6 @@
 # Projects for the Data Engineering Zoomcamp
 
-## [Week 1: Introduction & Prerequisites](/Week1)
+## [Week 1: Introduction & Prerequisites](/week1)
 
 * Introduction to GCP
 * Docker and docker-compose
