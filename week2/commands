@@ -38,4 +38,5 @@ docker run -it \
 
   #http://localhost:8080
   #New DB -> name pg-database-w2 -> user: root -> pass: root
-  
+
+  python3 ingest_data.py

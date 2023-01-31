@@ -9,8 +9,7 @@
 * Preparing the environment for the course
 * [Homework](https://github.com/mary435/data-engineering-zoomcamp/blob/a0b03e35d8d9dc2c7ee23ddff02194287d86eacc/cohorts/2023/week_1_docker_sql/homework.md)        
 
-
-## [Week 2: Workflow Orchestration] (/week2)
+## [Week 2: Workflow Orchestration](/week2)
 
 * Data Lake
 * Workflow orchestration
