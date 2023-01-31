@@ -160,4 +160,5 @@ cython_debug/
 #.idea/
 
 week2/ny_taxi_postgres_hw
+week2/commands
 *.csv
