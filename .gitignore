@@ -159,5 +159,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-/ny_taxi_postgres_hw
+week2/ny_taxi_postgres_hw
 *.csv
