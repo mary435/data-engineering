@@ -161,5 +161,7 @@ cython_debug/
 
 week2/ny_taxi_postgres_hw
 week2/commands
+/data
 *.csv
+*.parquet
 *.txt
