@@ -5,7 +5,12 @@ COPY docker-requirements.txt .
 RUN pip install -r docker-requirements.txt --trusted-host pypi.python.org --no-cache-dir 
 
 COPY data /opt/prefect/data
-COPY ingest_data.py /opt/prefect/flows/01_start
-COPY etl_gcs_to_bq.py /opt/prefect/flows/02_gcp
-COPY etl_web_to_gcs.py /opt/prefect/flows/02_gcp
-COPY parameterized_flow.py /opt/prefect/flows/03_deployments
+COPY etl_gcs_to_bq.py /opt/prefect/flows
+COPY etl_web_to_gcs.py /opt/prefect/flows
+COPY ingest_data.py /opt/prefect/flows
+COPY parameterized_flow.py /opt/prefect/flows
+COPY docker_deployment.py /opt/prefect/flows
+COPY etl_parent_flow-deployment.yaml /opt/prefect/flows
+
+
+

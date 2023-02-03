@@ -7,7 +7,7 @@ version: 10b6c5d80cd46a059f4ebb5c5b0f5087
 # The work queue that will handle this deployment's runs
 work_queue_name: default
 tags: []
-parameters: {}
+parameters: { "color": "yellow", "months" :[1, 2, 3], "year": 2021}
 schedule:
   cron: 0 0 * * *
   timezone: null
