@@ -164,7 +164,7 @@ cython_debug/
 docker-compose.yaml
 week2/ny_taxi_postgres_hw
 week2/commands
-/data
+
 *.csv
 *.parquet
 *.txt
