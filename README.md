@@ -28,7 +28,7 @@
 * Internals of BigQuery
 * Integrating BigQuery with Airflow
 * BigQuery Machine Learning
-* [Homework](.)
+* [Homework](https://github.com/mary435/data-engineering-zoomcamp/blob/0048065faa6bb56efaa192da335f396fe9c2770c/cohorts/2023/week_3_data_warehouse/homework.md)
 
 
 [Week 4: Analytics Engineering](.) 

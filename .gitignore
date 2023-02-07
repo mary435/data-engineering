@@ -169,3 +169,6 @@ data/yellow
 commands.txt
 docker-requirements.txt
 *.parquet
+
+week3/serving_dir
+week3/extract_model.md 
