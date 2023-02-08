@@ -17,7 +17,7 @@
 * ETL with GCP & Prefect
 * Parametrizing workflows
 * Prefect Cloud and additional resources
-* [Homework](https://github.com/mary435/data-engineering-zoomcamp/blob/60cb9610c39085d2c0e69f08af77b586d37d894e/cohorts/2023/week_2_workflow_orchestration/homework.md)  
+* [Homework](https://github.com/mary435/data-engineering-zoomcamp/blob/f2f10be6ee3ae1422f5e800101ef05b9cdecaf49/cohorts/2023/week_2_workflow_orchestration/homework.md)  
 
 ## [Week 3: Data Warehouse and BigQuery](/week3)
 
