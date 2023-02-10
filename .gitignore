@@ -173,3 +173,8 @@ docker-requirements.txt
 week3/serving_dir
 week3/extract_model.md 
 week3/data
+
+week4/commands.txt
+week4/data
+week4/etl_web_to_gcs_transform.py
+
