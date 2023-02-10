@@ -31,7 +31,16 @@
 * [Homework](https://github.com/mary435/data-engineering-zoomcamp/blob/0048065faa6bb56efaa192da335f396fe9c2770c/cohorts/2023/week_3_data_warehouse/homework.md)
 
 
-[Week 4: Analytics Engineering](.) 
+## [Week 4: Analytics Engineering](/week4)
+
+* Basics of analytics engineering
+* dbt (data build tool)
+* BigQuery and dbt
+* Postgres and dbt
+* dbt models
+* Testing and documenting
+* Deployment to the cloud and locally
+* Visualizing the data with google data studio and metabase
 
 [Week 5: Batch processing](.) 
 
