@@ -41,6 +41,7 @@
 * Testing and documenting
 * Deployment to the cloud and locally
 * Visualizing the data with google data studio and metabase
+* [NY Taxi rides project](https://github.com/mary435/ny_taxi_rides.git)
 
 [Week 5: Batch processing](.) 
 
