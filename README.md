@@ -42,6 +42,7 @@
 * Deployment to the cloud and locally
 * Visualizing the data with google data studio and metabase
 * [NY Taxi rides project](https://github.com/mary435/ny_taxi_rides.git)
+* [Homework](https://github.com/mary435/data-engineering-zoomcamp/blob/b8b141a98de8f76d0118e8dbd86676b131854aaa/cohorts/2023/week_4_analytics_engineering/homework.md)
 
 [Week 5: Batch processing](.) 
 
@@ -50,3 +51,5 @@
 [Week 7, 8 & 9: Project](.)  
 
 :white_check_mark:
+```
+```
