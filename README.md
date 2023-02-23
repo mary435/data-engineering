@@ -41,11 +41,8 @@
 * Testing and documenting
 * Deployment to the cloud and locally
 * Visualizing the data with google data studio and metabase
-
 * [NY Taxi rides project](https://github.com/mary435/ny_taxi_rides.git)
-
 * [Homework](https://github.com/mary435/data-engineering-zoomcamp/blob/493f97fadb0442916fee6bc6d93408119573fd0b/cohorts/2023/week_4_analytics_engineering/homework.md)
-
 * [Workshop: Maximizing Confidence in Your Data Model Changes with dbt and PipeRider](https://github.com/mary435/data-engineering-zoomcamp/blob/493f97fadb0442916fee6bc6d93408119573fd0b/cohorts/2023/workshops/piperider.md)
 
 
