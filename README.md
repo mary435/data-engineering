@@ -42,7 +42,9 @@
 * Deployment to the cloud and locally
 * Visualizing the data with google data studio and metabase
 * [NY Taxi rides project](https://github.com/mary435/ny_taxi_rides.git)
-* [Homework](https://github.com/mary435/data-engineering-zoomcamp/blob/b8b141a98de8f76d0118e8dbd86676b131854aaa/cohorts/2023/week_4_analytics_engineering/homework.md)
+* [Homework](https://github.com/mary435/data-engineering-zoomcamp/blob/493f97fadb0442916fee6bc6d93408119573fd0b/cohorts/2023/week_4_analytics_engineering/homework.md)
+
+
 
 para documentacion https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_fhv.pdf
 
