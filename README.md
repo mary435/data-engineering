@@ -46,7 +46,13 @@
 * [Workshop: Maximizing Confidence in Your Data Model Changes with dbt and PipeRider](https://github.com/mary435/data-engineering-zoomcamp/blob/493f97fadb0442916fee6bc6d93408119573fd0b/cohorts/2023/workshops/piperider.md)
 
 
-[Week 5: Batch processing](.) 
+[Week 5: Batch processing](/week5/)
+* Batch processing
+* What is Spark
+* Spark Dataframes
+* Spark SQL
+* Internals: GroupBy and joins
+* Homework
 
 [Week 6: Streaming](.)  
 
