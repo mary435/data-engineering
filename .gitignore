@@ -180,4 +180,8 @@ week4/etl_web_to_gcs_transform.py
 week4/hw.md
 
 week5/commands.txt
+week5/.ipynb_checkpoints
+week5/zones
 
+
+.DS_Store
