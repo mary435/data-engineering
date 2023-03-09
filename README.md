@@ -55,7 +55,13 @@
 * Internals: GroupBy and joins
 * [Homework](/week5/homework.ipynb)
 
-## [Week 6: Streaming](.)  
+## [Week 6: Streaming](/week6/)
+* Introduction to Kafka
+* Schemas (avro)
+* Kafka Streams
+* Kafka Connect and KSQL
+* Homework
+
 
 [Week 7, 8 & 9: Project](.)  
 
