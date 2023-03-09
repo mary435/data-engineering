@@ -53,7 +53,7 @@
 * Spark Dataframes
 * Spark SQL
 * Internals: GroupBy and joins
-* Homework
+* [Homework](/week5/homework.ipynb)
 
 ## [Week 6: Streaming](.)  
 
