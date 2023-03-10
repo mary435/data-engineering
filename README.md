@@ -60,7 +60,7 @@
 * Schemas (avro)
 * Kafka Streams
 * Kafka Connect and KSQL
-* Homework
+* [Homework](/week6/)
 
 
 [Week 7, 8 & 9: Project](.)  
