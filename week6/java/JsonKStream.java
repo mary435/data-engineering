@@ -1,4 +1,4 @@
-package org.example;
+package week6.java;
 
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.common.serialization.Serdes;

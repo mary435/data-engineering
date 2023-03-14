@@ -1,4 +1,4 @@
-package org.example;
+package week6.java;
 
 import com.opencsv.CSVReader;
 import com.opencsv.exceptions.CsvException;
