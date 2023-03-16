@@ -189,4 +189,6 @@ week5/fhvhv
 
 week6/confluent-data
 week6/python/docker/kafka/confluent-data
+*.crc
+week6/python/streams-example/pyspark/checkpoint
 
