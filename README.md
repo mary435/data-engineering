@@ -62,9 +62,5 @@
 * Kafka Connect and KSQL
 * [Homework](/week6/python/hw/readme.md)
 
-
-[Week 7, 8 & 9: Project](.)  
-
-:white_check_mark:
-```
-```
+## [Week 7, 8 & 9: Project]
+* [MLA Dashboard Proyect](https://github.com/mary435/MLA_Dashboard.git)
